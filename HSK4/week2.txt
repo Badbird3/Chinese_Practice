@@ -1,3 +1,5 @@
+part1:
+
 生意， sheng4yi, business
 一切， yi2qie4, business
 信心，xin4xin1, confidence
@@ -11,3 +13,18 @@
 辛苦， xin1ku3, hard
 正好， zheng4hao3, just right/just in times
 台， tai2, measure work for machines
+
+part2:
+竞争， jing4zheng1, compete
+压力， ya1li4, pressure
+相同， xiang1tong2, equal
+顾客， gu4ke4, customer
+符合， fu2he2, according to
+计划， ji4hua4, plan
+专门， zhuan1men2, specialization
+材料， cai2liao4, ingredient
+不仅， bu4jin4, not only
+陪， pei2, to accompany
+袜子， wa4zi, socks
+吃惊， chi1jing1, be shocked
+竟然， jing4ran2, unexpectedly
